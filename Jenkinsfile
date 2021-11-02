@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                powershell 'mvn package'
+                echo "Hi Arul"
                 
                 
             }
