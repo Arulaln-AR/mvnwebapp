@@ -9,6 +9,7 @@ pipeline {
         stage('Example') {
             steps {
                 echo "Hi Arul"
+                echo "Hi Priya"
                 
                 
             }
