@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                pwsh 'mvn package'
+                powershell 'mvn package'
                 
                 
             }
