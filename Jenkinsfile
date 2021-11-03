@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo "Hi Arul"
                 echo "Hi Priya"
-                
+                echo "Hi Both"
                 
             }
         }
